@@ -1,5 +1,0 @@
-Assignment Instructions:
-
-In this assignment, you will write a program which reads in a numerical infix expression from the user
-and convert it to a postfix expression. Once converted, you will then solve the postfix expression and
-print the result for the user.
